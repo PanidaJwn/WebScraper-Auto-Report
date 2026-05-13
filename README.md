@@ -41,8 +41,8 @@ A Python-based web scraping tool that automatically detects and extracts data fr
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/universal-smart-scraper.git
-cd universal-smart-scraper
+git clone https://github.com/PanidaJwn/WebScraper-Auto-Report
+cd WebScraper-Auto-Report
 ```
 
 ### 2. Install dependencies
